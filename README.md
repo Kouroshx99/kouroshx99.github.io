@@ -27,8 +27,8 @@ This system serves both as an interactive simulation platform and as a research
 testbed for studying physically grounded dynamics under real-time constraints.
 
 **Links**
-- Technical writing sample (PDF)
-- Demonstration videos
+- Vehicle Physics – Writing Sample (PDF): [https://drive.google.com/file/d/1AJyO24DnAH7WrPG2FEDiHwNMUsd3QzBW/view?usp=sharing]
+- Demonstration videos [https://youtu.be/kpArE7zeihY]
 
 ### Airplane Flight Simulator (Unity, C#)
 Open-world arcade flight game released on iOS, Android, and Fire OS.
@@ -51,5 +51,5 @@ statement of purpose and writing samples.
 
 ## Links
 
-- GitHub: https://github.com/Kouroshx99
-- Email: kafsharpour@outlook.com
+- GitHub: [https://github.com/Kouroshx99](https://github.com/Kouroshx99)
+- Email: [k.afsharpour@outlook.com](mailto:kafsharpour@outlook.com)
