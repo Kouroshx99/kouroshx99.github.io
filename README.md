@@ -28,7 +28,12 @@ testbed for studying physically grounded dynamics under real-time constraints.
 
 **Links**
 - Vehicle Physics – Writing Sample (PDF): [https://drive.google.com/file/d/1AJyO24DnAH7WrPG2FEDiHwNMUsd3QzBW/view?usp=sharing]
-- Demonstration videos [![Vehicle Physics Demo](https://img.youtube.com/vi/kpArE7zeihY/0.jpg)](https://www.youtube.com/watch?v=kpArE7zeihY)
+
+
+[![Vehicle Physics Demo](https://img.youtube.com/vi/kpArE7zeihY/0.jpg)](https://www.youtube.com/watch?v=kpArE7zeihY)
+[![Vehicle Physics Demo](https://img.youtube.com/vi/kpArE7zeihY/0.jpg)](https://www.youtube.com/watch?v=kpArE7zeihY)
+[![Vehicle Physics Demo](https://img.youtube.com/vi/kpArE7zeihY/0.jpg)](https://www.youtube.com/watch?v=kpArE7zeihY)
+
 
 ### Airplane Flight Simulator (Unity, C#)
 Open-world arcade flight game released on iOS, Android, and Fire OS.
