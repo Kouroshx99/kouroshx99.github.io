@@ -30,6 +30,7 @@ testbed for studying physically grounded dynamics under real-time constraints.
 - Vehicle Physics – Writing Sample (PDF): [https://drive.google.com/file/d/1AJyO24DnAH7WrPG2FEDiHwNMUsd3QzBW/view?usp=sharing]
 
 **Videos**
+
 [![Vehicle Physics Demo](https://img.youtube.com/vi/kpArE7zeihY/0.jpg)](https://www.youtube.com/watch?v=kpArE7zeihY)
 [![Vehicle Physics Demo](https://img.youtube.com/vi/TXzRp0bGmJU/0.jpg)](https://youtu.be/TXzRp0bGmJU?si=79PjLW1gbN5gx8kt)
 
