@@ -30,7 +30,7 @@ where traction, loss of control, and vehicle behavior are legible to players
 through interaction rather than abstract UI.
 
 **Links**
-- Vehicle Physics – Writing Sample (PDF): [https://drive.google.com/file/d/1AJyO24DnAH7WrPG2FEDiHwNMUsd3QzBW/view?usp=sharing]
+- Vehicle Physics – [Writing Sample (PDF)](https://drive.google.com/file/d/1AJyO24DnAH7WrPG2FEDiHwNMUsd3QzBW/view?usp=sharing)
 
 **Videos**
 
