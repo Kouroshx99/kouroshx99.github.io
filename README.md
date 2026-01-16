@@ -47,8 +47,12 @@ This project emphasized building robust systems that balance physical behavior,
 player interaction, and strict real-time performance constraints.
 
 **Links**
-- Gameplay videos
 - Store page (if available)
+
+**Gameplay videos**
+
+[![Airplane Flight Simulator](https://img.youtube.com/vi/CWr0VuZJQSo/0.jpg)](https://youtu.be/CWr0VuZJQSo?si=mIhMsSEz8QUCk1XC)
+[![Airplane Flight Simulator](https://img.youtube.com/vi/CWr0VuZJQSo/0.jpg)](https://youtu.be/03bmqtihf94?si=TxCJQpo96j9KY915)
 
 Additional context on my research interests and background is available in my
 statement of purpose and writing samples.
@@ -56,4 +60,4 @@ statement of purpose and writing samples.
 ## Links
 
 - GitHub: [https://github.com/Kouroshx99](https://github.com/Kouroshx99)
-- Email: [k.afsharpour@outlook.com](mailto:kafsharpour@outlook.com)
+- Email: [kafsharpour@outlook.com](mailto:kafsharpour@outlook.com)
