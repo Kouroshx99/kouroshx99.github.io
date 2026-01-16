@@ -47,12 +47,13 @@ This project emphasized building robust systems that balance physical behavior,
 player interaction, and strict real-time performance constraints.
 
 **Links**
-- Store page (if available)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.pickle.AirplaneFlightSimulator)
+- [Apple Store](https://apps.apple.com/us/app/airplane-real-flight-simulator/id6630380926)
 
 **Gameplay videos**
 
 [![Airplane Flight Simulator](https://img.youtube.com/vi/CWr0VuZJQSo/0.jpg)](https://youtu.be/CWr0VuZJQSo?si=mIhMsSEz8QUCk1XC)
-[![Airplane Flight Simulator](https://img.youtube.com/vi/CWr0VuZJQSo/0.jpg)](https://youtu.be/03bmqtihf94?si=TxCJQpo96j9KY915)
+[![Airplane Flight Simulator](https://img.youtube.com/vi/03bmqtihf94/0.jpg)](https://youtu.be/03bmqtihf94?si=TxCJQpo96j9KY915)
 
 Additional context on my research interests and background is available in my
 statement of purpose and writing samples.
