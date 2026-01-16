@@ -1,19 +1,18 @@
 # Kourosh Afsharpour
 
-Real-time simulation and systems programmer focused on physically grounded models,
-engine-level development, and interactive evaluation under real-time constraints.
+Game and simulation programmer focused on physics-based mechanics,
+engine-level systems, and real-time interactive experiences.
 
 ## About
 
-My work centers on real-time simulation as a foundation for interactive systems,
-games, and research-oriented evaluation. I am particularly interested in
-physics-based modeling, numerical stability, and building transparent simulation
-pipelines that remain controllable and interpretable under real-time constraints.
+My work centers on games and interactive simulations as computational systems.
+I design and implement physics-based mechanics, real-time simulation pipelines,
+and engine-level systems that shape player interaction, learning, and experience.
 
 My background spans engine-level development in Unity and Unreal Engine,
 research-oriented simulation systems, and shipped interactive applications.
 
-## Projects
+## Selected Game and Simulation Projects
 
 ### Vehicle Physics for Real-Time Simulation (Unreal Engine, C++)
 Research-oriented vehicle dynamics system developed from first principles.
@@ -25,6 +24,10 @@ Research-oriented vehicle dynamics system developed from first principles.
 
 This system serves both as an interactive simulation platform and as a research
 testbed for studying physically grounded dynamics under real-time constraints.
+
+While technically motivated, this system was developed to support game mechanics
+where traction, loss of control, and vehicle behavior are legible to players
+through interaction rather than abstract UI.
 
 **Links**
 - Vehicle Physics – Writing Sample (PDF): [https://drive.google.com/file/d/1AJyO24DnAH7WrPG2FEDiHwNMUsd3QzBW/view?usp=sharing]
@@ -43,8 +46,9 @@ Open-world arcade flight game released on iOS, Android, and Fire OS.
 - Implemented asynchronous scene loading, asset-bundle-based world management,
   and custom LOD solutions for dense environments
 
-This project emphasized building robust systems that balance physical behavior,
-player interaction, and strict real-time performance constraints.
+This project was designed first and foremost as a game, emphasizing player
+control, exploration, and progression, while requiring robust real-time systems
+to support large-scale worlds and consistent flight mechanics on mobile hardware.
 
 **Links**
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.pickle.AirplaneFlightSimulator)
