@@ -2,12 +2,4 @@
 
 ## Vehicle Physics for Real-Time Simulation
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;">
-  <iframe
-    src="https://www.youtube-nocookie.com/embed/kpArE7zeihY"
-    title="Vehicle Physics Demo"
-    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-</div>
+[![Vehicle Physics Demo](https://img.youtube.com/vi/kpArE7zeihY/0.jpg)](https://www.youtube.com/watch?v=kpArE7zeihY)
