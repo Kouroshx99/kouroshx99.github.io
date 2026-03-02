@@ -62,6 +62,17 @@ to support large-scale worlds and consistent flight mechanics on mobile hardware
 Additional context on my research interests and background is available in my
 statement of purpose and writing samples.
 
+## Third-Party Assets
+
+The demo vehicle mesh is based on:
+
+"Generic Sedan Car" by MMC Works 
+Source: https://sketchfab.com/3d-models/generic-sedan-car-58c33766470d46e7b2aed542650494e5
+License: Creative Commons Attribution 4.0 (CC BY 4.0)  
+https://creativecommons.org/licenses/by/4.0/
+
+Modifications: Converted for Unreal Engine with simplified rigging with only 4 wheels and car body
+
 ## Links
 
 - GitHub: [https://github.com/Kouroshx99](https://github.com/Kouroshx99)
